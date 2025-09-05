@@ -18,22 +18,6 @@ A simple command-line ATM (Automated Teller Machine) simulation program written 
 - Java Development Kit (JDK) 8 or higher
 - Command line interface (Terminal/Command Prompt)
 
-### Installation & Running
-
-1. **Download the source code**
-   ```
-   Save the ATMSimulation.java file to your desired directory
-   ```
-
-2. **Compile the program**
-   ```bash
-   javac ATMSimulation.java
-   ```
-
-3. **Run the program**
-   ```bash
-   java ATMSimulation
-   ```
 
 ## How to Use
 
